@@ -1,7 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ui_practic">
+    package="com.example.weather_example_null_safety">
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
    <application
-        android:label="ui_practic"
+        android:label="weather_example_null_safety"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

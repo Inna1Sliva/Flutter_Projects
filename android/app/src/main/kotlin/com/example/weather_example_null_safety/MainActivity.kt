@@ -1,4 +1,4 @@
-package com.example.ui_practic
+package com.example.weather_example_null_safety
 
 import io.flutter.embedding.android.FlutterActivity
 
